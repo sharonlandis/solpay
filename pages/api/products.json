@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Dog Bow Tie",
+    "price": "0.09",
+    "description": "Your dog will be all dressed up for his/her next walk",
+    "image_url": "https://i.imgur.com/fErUKHk.jpg",
+    "filename": "dogs.zip",
+    "hash": "QmdjJybu7qZAtS3Gk4LiDaAM2ChEuwZ6NuKnpNm5PQqUKe",
+    "seller": "8tQYzY6mjSHAqmgUoyTsgceJFdbzJQxYB4YT8iwoDuzY"
+  },
+  {
+    "id": 2,
+    "name": "Dog shoes",
+    "price": "0.05",
+    "image_url": "https://i.imgur.com/uodzxZh.png",
+    "description": "Dog shoes with grippy underpadding",
+    "filename": "Dog Shoes.zip",
+    "hash": "QmcFmvbYLhGSoGUqvkCgtmeyKmHR23knyC6gJi8DcuDoZN",
+    "seller": "D8xjDA4e5YtHkFuYy185NFhFgfTei5t8NRbFvUguHe1z"
+  },
+  {
+    "id": 3,
+    "name": "Yellow Wellies",
+    "price": "0.07",
+    "image_url": "https://i.imgur.com/gW802Vt.png",
+    "description": "Yellow wellies to keep your dog's feet dry.",
+    "filename": "Yellow Wellies.zip",
+    "hash": "QmbK6GzubwVNVzxYMsf37E1BXPd6pS9be7ioaLCJ3znbr2",
+    "seller": "D8xjDA4e5YtHkFuYy185NFhFgfTei5t8NRbFvUguHe1z"
+  },
+  {
+    "id": 4,
+    "name": "Hot blue pavement boots",
+    "price": ".1",
+    "image_url": "https://i.imgur.com/69VllwG.png",
+    "description": "Hot blue for max showoff. Protect your doggo from hot pavement on sensitive feet",
+    "filename": "Hot blue pavement boots.zip",
+    "hash": "QmXeww4mD6sdtfWx6dNzPiJ78kA8TZaVkeMb8aHwe48HLg",
+    "seller": "8tQYzY6mjSHAqmgUoyTsgceJFdbzJQxYB4YT8iwoDuzY"
+  },
+  {
+    "id": 5,
+    "name": "I luv my yellow wellies",
+    "price": ".8",
+    "image_url": "https://i.imgur.com/69VllwG.png",
+    "description": "Yellow wellies added by store owener",
+    "filename": "Yellow Wellies.zip",
+    "hash": "QmbK6GzubwVNVzxYMsf37E1BXPd6pS9be7ioaLCJ3znbr2",
+    "seller": "D8xjDA4e5YtHkFuYy185NFhFgfTei5t8NRbFvUguHe1z"
+  },
+  {
+    "id": 6,
+    "name": "Doggos diggidoo shows",
+    "price": "1.03",
+    "image_url": "https://i.imgur.com/69VllwG.png",
+    "description": "Your doggo will be all diggidoo about these shoes. Where them proud!  ",
+    "filename": "Dog Shoes.zip",
+    "hash": "QmcFmvbYLhGSoGUqvkCgtmeyKmHR23knyC6gJi8DcuDoZN",
+    "seller": "8tQYzY6mjSHAqmgUoyTsgceJFdbzJQxYB4YT8iwoDuzY"
+  }
+]
