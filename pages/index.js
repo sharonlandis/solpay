@@ -58,9 +58,7 @@ const App = () => {
       <div className="container">
         <header className="header-container">
           <p className="header"> Doggos Dog Store </p>
-          <p className="sub-text">
-            Home of the best ideas on planet earth on how to spoil your dog{" "}
-          </p>
+          <p className="sub-text">Spoil your doggo </p>
 
           {/* Make form public  */}
           {/* {isOwner && (
